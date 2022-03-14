@@ -1,0 +1,110 @@
+{
+	"CATAG6":
+		{"values": {
+			"1": "Youth",
+			"2": "18-25",
+			"3": "26-34",
+			"4": "35-49",
+			"5": "50-64",
+			"6": "65+"
+			}
+		},
+	"SVCFLAG":
+		{"values": {
+			"0": "No military service",
+			"1": "Military service"
+			}
+		},
+	"AGE2":
+		{"values": {
+			"1": "12",
+			"2": "13",
+			"3": "14",
+			"4": "15",
+			"5": "16",
+			"6": "17",
+			"7": "18",
+			"8": "19",
+			"9": "20",
+			"10": "21",
+			"11": "22 or 23",
+			"12": "24 or 25",
+			"13": "26 - 29",
+			"14": "30 - 34",
+			"15": "35 - 49",
+			"16": "50 - 64",
+			"17": "65+"
+			}
+		},
+	"IRSEX":
+		{"values": {
+			"1": "Male",
+			"2": "Female"
+			}
+		},
+	"IRMARIT":
+		{"values": {
+			"1": "Married",
+			"2": "Widowed",
+			"3": "Divorced/Sep",
+			"4": "Never Married",
+			"99": "Youth"
+			}
+		},
+	"NEWRACE2":
+		{"values": {
+			"1": "NonHisp White",
+			"2": "NonHisp Black",
+			"3": "NonHisp NatAmer",
+			"4": "NonHisp HI/PI",
+			"5": "NonHisp Asian",
+			"6": "NonHisp >1 Race",
+			"7": "Hispanic"
+			}
+		},
+	"EDUHIGHCAT":
+		{"values": {
+			"1": "< High School",
+			"2": "HS Grad",
+			"3": "Some Coll",
+			"4": "Coll Grad",
+			"5": "Youth"
+			}
+		},
+	"IRWRKSTAT":
+		{"values": {
+			"1": "Empl Full Time",
+			"2": "Empl Part Time",
+			"3": "Unemployed",
+			"4": "Other",
+			"99": "Youth"
+			}
+		},
+	"GOVTPROG":
+		{"values": {
+			"1": "Yes",
+			"2": "No"
+			}
+		},
+	"INCOME":
+		{"values": {
+			"1": "<20k",
+			"2": "20k-49999",
+			"3": "50k-74999",
+			"4": ">75k"
+			}
+		},
+	"COUTYP4":
+		{"values": {
+			"1": "Large Metro",
+			"2": "Small Metro",
+			"3": "Nonmetro"
+			}
+		},
+	"AIIND102":
+		{"values": {
+			"1": "Amer Ind Area",
+			"2": "Not Amer Ind Area"
+			}
+		}
+}
